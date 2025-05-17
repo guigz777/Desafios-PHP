@@ -1,0 +1,1 @@
+uma calculadora capaz de receber um número total de segundos e convertê-lo para o equivalente em semanas, dias, horas, minutos e segundos, exibindo cada uma dessas unidades em uma lista não ordenada

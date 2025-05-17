@@ -1,0 +1,1 @@
+ criar uma página web capaz de receber o preço de um produto, permitir o ajuste percentual desse preço através de um controle deslizante e exibir o resultado do reajuste na tela
