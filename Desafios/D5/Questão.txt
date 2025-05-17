@@ -1,0 +1,1 @@
+Peça ao usuário pra informar um numero real e diga para ele qual e a parte inteira e qual e a parte fracionada
