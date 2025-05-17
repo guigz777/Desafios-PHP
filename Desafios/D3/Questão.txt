@@ -1,1 +1,0 @@
-Faz um conversor de real pra dólar, sem usar API's

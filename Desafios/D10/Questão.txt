@@ -1,3 +1,0 @@
-Calcule a idade de uma pessoa so que você tem que considerar que a pessoa pode ter nascido em 1900 e morrido em 1950 além disso e necessário que a pergunta de que ano ela deseja descobrir quantos anos terá atualize de acordo com o ano por exemplo se estamos em 2025 aparecera estamos em 2025 mas se estivermos em 2024 o programa sem precisar de uma atualização dirá que estamos em 2024 :) 
-
---(Sinceramente o que tem de difícil nessa e interpretar essa minha pergunta kkkk)--

@@ -1,1 +1,0 @@
-Crie um site em PHP que mostre o sucessor e antecessor de um numero digitado pelo usuario

@@ -1,4 +1,0 @@
-Faz um conversor de real pra dólar usando API's recomendo a do banco do brasil 
-
-
-(O meu codico apresenta alguns problemas então se quiser pular não tem problemas)

@@ -1,1 +1,0 @@
-Calcule a media simples e a media ponderada de dois números

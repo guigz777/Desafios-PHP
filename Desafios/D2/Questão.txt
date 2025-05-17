@@ -1,1 +1,0 @@
-Faz um sorteio de números aleatorios
