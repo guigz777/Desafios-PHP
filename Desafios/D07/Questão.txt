@@ -1,1 +1,0 @@
-Pergunte ao usuário seu salario e diga quantos salários mínimos ele ganha, mostre o excedente por exemplo 3 salários mínimos e 25 reais.

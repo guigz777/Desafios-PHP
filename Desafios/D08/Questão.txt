@@ -1,1 +1,0 @@
-Peça um numero ao usuário e calcule a raiz quadrada e a raiz cubica porem PRECISA ser feito sem trocar de paiginas
