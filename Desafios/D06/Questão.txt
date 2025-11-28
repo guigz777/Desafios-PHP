@@ -1,1 +1,0 @@
-Peça ao usuário pra informa o dividendo e o divisor e realize o calculo mostrando o dividendo o divisor o resto e o resultado
